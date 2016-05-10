@@ -1,0 +1,28 @@
+name: Daniel Halseth
+favicon: null
+layout_spectrum: 0.12252388941124082
+typography_spectrum: 0.9845643898006529
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6163343973457813
+  lightness: 0.7550017409957945
+  saturation: 0.6324776709079742
+  rhythmicContrast: 0.7645323977340013
+purpose: []
