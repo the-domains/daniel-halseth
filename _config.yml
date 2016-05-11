@@ -1,7 +1,7 @@
 name: Daniel Halseth
 favicon: null
-layout_spectrum: 0.75963
-typography_spectrum: 0.60854
+layout_spectrum: 0.6726
+typography_spectrum: 0.89261
 title: Daniel Halseth Thoughts
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#2d2219'
-    - '#e6f5f5'
-    - '#efccb4'
-    - '#4f5619'
-    - '#a68822'
-  brandStrength: 0.5
+    - '#b9996a'
+    - '#926836'
+    - '#d7c09e'
+    - '#1f0b02'
+    - '#633712'
+  brandStrength: 0.8125
   lightness: 0.7550017409957945
   saturation: 0.625
   rhythmicContrast: 0.75
