@@ -1,6 +1,6 @@
 name: Daniel Halseth
 favicon: null
-layout_spectrum: 0.89756
+layout_spectrum: 0.75963
 typography_spectrum: 0.65287
 title: Daniel Halseth Thoughts
 cta:
@@ -22,8 +22,8 @@ color:
     - '#efccb4'
     - '#4f5619'
     - '#a68822'
-  brandStrength: 0.6875
+  brandStrength: 0.5
   lightness: 0.7550017409957945
   saturation: 0.625
-  rhythmicContrast: 0.7645323977340013
+  rhythmicContrast: 0.75
 purpose: []
