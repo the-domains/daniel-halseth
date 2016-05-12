@@ -4,7 +4,7 @@
         <description><![CDATA[My Thoughts]]></description>
         <link>http://danielhalseth.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 May 2016 01:37:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2016 01:38:16 GMT</lastBuildDate>
         <atom:link href="http://danielhalseth.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Some Picture]]></title>
@@ -12,6 +12,13 @@
             <link>http://danielhalseth.com/some-of-my-favorite-head-shots/index.html</link>
             <guid isPermaLink="false">b791644a-7c35-4a2a-994b-48bfe09b0dd6</guid>
             <pubDate>Thu, 12 May 2016 00:57:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Politics]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/34925172-b11e-4b49-97e7-8662b3f4a428.jpg">]]></description>
+            <link>http://danielhalseth.com/donald-trump-platform-as-i-understand-it-and-additional-deta/index.html</link>
+            <guid isPermaLink="false">2e875ef5-0b55-4813-bb09-edce13a8ec8c</guid>
+            <pubDate>Thu, 12 May 2016 01:38:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tour | Light Up To Live]]></title>
@@ -26,13 +33,6 @@
             <link>http://danielhalseth.com/light-up-to-live-teaser/index.html</link>
             <guid isPermaLink="false">04d6124a-a769-4adb-92d7-6a03299a107a</guid>
             <pubDate>Thu, 12 May 2016 00:58:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/34925172-b11e-4b49-97e7-8662b3f4a428.jpg">]]></description>
-            <link>http://danielhalseth.com/donald-trump-platform-as-i-understand-it-and-additional-deta/index.html</link>
-            <guid isPermaLink="false">2e875ef5-0b55-4813-bb09-edce13a8ec8c</guid>
-            <pubDate>Wed, 11 May 2016 22:42:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
