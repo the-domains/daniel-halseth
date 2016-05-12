@@ -5,12 +5,13 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-12T00:20:47.630Z'
-dateModified: '2016-05-12T00:20:33.105Z'
+datePublished: '2016-05-12T01:37:17.504Z'
+dateModified: '2016-05-12T01:37:04.840Z'
 title: 'Tour | Light Up To Live'
 author:
   - name: Light Up To Live
     url: ''
+sourcePath: _posts/2016-05-12-tour-or-light-up-to-live.md
 authors: []
 publisher:
   name: null
@@ -18,7 +19,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-12-tour-or-light-up-to-live.md
 url: tour-or-light-up-to-live/index.html
 _type: Article
 
