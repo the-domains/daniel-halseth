@@ -4,10 +4,10 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-05-12T01:37:17.504Z'
-dateModified: '2016-05-12T01:37:04.840Z'
-title: 'Tour | Light Up To Live'
+description: 'Tour | Light Up To Live'
+datePublished: '2016-05-12T01:47:41.592Z'
+dateModified: '2016-05-12T01:47:34.830Z'
+title: Light Up To Live
 author:
   - name: Light Up To Live
     url: ''
@@ -23,7 +23,7 @@ url: tour-or-light-up-to-live/index.html
 _type: Article
 
 ---
-![Tour | Light Up To Live](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb7d445d-a976-42c1-b857-88924af1e6c0.png)
+![Tour | Light Up To Live](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8a1af1b41fee64f3c2ebca16945f13bd66007372.png)
 ![FAB5 - Light Up To Live](https://the-grid-user-content.s3-us-west-2.amazonaws.com/482229e9-7c28-46a5-b56b-ab1bfad05501.png)
 ![A Veteran Documentary Movie | Light Up To Live](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aefff893-31b8-4b3f-80c3-1cd5d20eea54.png)
 ![Tour 2016 | Light Up To Live](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8133b24e-9bc9-4f9a-9642-82cd8abfcd3e.jpg)
