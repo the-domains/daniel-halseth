@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Daniel Halseth Thoughts]]></title>
-        <description><![CDATA[Daniel Halseth Thoughts]]></description>
+        <title><![CDATA[My Thoughts]]></title>
+        <description><![CDATA[My Thoughts]]></description>
         <link>http://danielhalseth.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 May 2016 00:03:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2016 00:20:52 GMT</lastBuildDate>
         <atom:link href="http://danielhalseth.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Daniel Halseth - Headshots]]></title>
@@ -12,6 +12,13 @@
             <link>http://danielhalseth.com/some-of-my-favorite-head-shots/index.html</link>
             <guid isPermaLink="false">b791644a-7c35-4a2a-994b-48bfe09b0dd6</guid>
             <pubDate>Thu, 12 May 2016 00:03:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tour | Light Up To Live]]></title>
+            <description><![CDATA[<article><h1>Tour | Light Up To Live</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8a1af1b41fee64f3c2ebca16945f13bd66007372.png"></article>]]></description>
+            <link>http://danielhalseth.com/tour-or-light-up-to-live/index.html</link>
+            <guid isPermaLink="false">6777ec15-7215-4f4b-a1d2-a734eb7ce0da</guid>
+            <pubDate>Thu, 12 May 2016 00:20:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
