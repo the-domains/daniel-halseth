@@ -1,14 +1,15 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: Donald Trump Platform as I understand it and additional details can be found HERE
-datePublished: '2016-05-11T22:42:28.722Z'
-dateModified: '2016-05-11T22:42:08.506Z'
+datePublished: '2016-05-12T01:38:12.296Z'
+dateModified: '2016-05-12T01:38:09.590Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-11-donald-trump-platform-as-i-understand-it-and-additional-deta.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-11-donald-trump-platform-as-i-understand-it-and-additional-deta.md
 url: donald-trump-platform-as-i-understand-it-and-additional-deta/index.html
 _type: Article
 
