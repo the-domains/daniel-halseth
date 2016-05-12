@@ -4,7 +4,7 @@
         <description><![CDATA[My Thoughts]]></description>
         <link>http://danielhalseth.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 May 2016 00:20:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2016 00:31:35 GMT</lastBuildDate>
         <atom:link href="http://danielhalseth.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Daniel Halseth - Headshots]]></title>
@@ -12,6 +12,13 @@
             <link>http://danielhalseth.com/some-of-my-favorite-head-shots/index.html</link>
             <guid isPermaLink="false">b791644a-7c35-4a2a-994b-48bfe09b0dd6</guid>
             <pubDate>Thu, 12 May 2016 00:03:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Light Up To Live - Teaser]]></title>
+            <description><![CDATA[<p>https://youtu.be/oow1Lo-uvEg</p>]]></description>
+            <link>http://danielhalseth.com/light-up-to-live-teaser/index.html</link>
+            <guid isPermaLink="false">04d6124a-a769-4adb-92d7-6a03299a107a</guid>
+            <pubDate>Thu, 12 May 2016 00:31:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tour | Light Up To Live]]></title>
