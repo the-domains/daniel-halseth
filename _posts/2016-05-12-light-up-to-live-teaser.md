@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-12T00:49:07.462Z'
-dateModified: '2016-05-12T00:48:06.104Z'
+datePublished: '2016-05-12T00:53:15.751Z'
+dateModified: '2016-05-12T00:51:28.901Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-12-light-up-to-live-teaser.md
