@@ -1,20 +1,19 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e071dd2-39a8-42ab-b112-40be051c0b75.jpg
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-05T00:52:38.814Z'
-dateModified: '2016-06-05T00:49:57.791Z'
+datePublished: '2016-06-06T00:49:50.028Z'
+dateModified: '2016-06-06T00:49:46.362Z'
 author: []
 title: ''
+sourcePath: _posts/2016-06-05-operation-rock-the-troops.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-05-operation-rock-the-troops.md
+url: operation-rock-the-troops/index.html
 _context: 'http://schema.org'
 _type: Article
 
