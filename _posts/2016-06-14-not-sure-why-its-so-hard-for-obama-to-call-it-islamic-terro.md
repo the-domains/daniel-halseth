@@ -9,15 +9,15 @@ description: >-
   for any religion with not favoritism. He is just the worst ever and hates this
   country or something. Blames everybody else for the problems we have.
   https://www.donaldjtrump.com/press-releases/donald-j-trump-statement-regarding-tragic-terrorist-attacks 
-datePublished: '2016-06-14T03:07:10.791Z'
-dateModified: '2016-06-14T03:07:01.862Z'
-authors: []
-publisher: null
+datePublished: '2016-06-15T02:43:55.719Z'
+dateModified: '2016-06-14T03:11:24.637Z'
 title: ''
 author: []
-starred: false
 sourcePath: >-
   _posts/2016-06-14-not-sure-why-its-so-hard-for-obama-to-call-it-islamic-terro.md
+authors: []
+publisher: null
+starred: false
 url: not-sure-why-its-so-hard-for-obama-to-call-it-islamic-terro/index.html
 _type: Article
 
