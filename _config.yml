@@ -1,7 +1,7 @@
 name: Daniel W. Halseth
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.85836
+layout_spectrum: 0.84429
+typography_spectrum: 0.9414
 title: Daniel Halseth
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#c09f72'
-    - '#ddc8a7'
-    - '#f4ecdf'
-    - '#1e0700'
-    - '#50270b'
+    - '#3e3f41'
+    - '#18080b'
+    - '#efefef'
+    - '#a4a5a0'
+    - '#a2314a'
   brandStrength: 0.8125
   lightness: 0.625
   saturation: 0.5
